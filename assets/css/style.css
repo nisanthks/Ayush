@@ -196,7 +196,7 @@ a:hover {
 }
 
 .container {
-    padding-top: 1px;
+    padding-top: 50px;
     margin-top: -1px;
 }
 
@@ -1239,12 +1239,12 @@ a:hover {
 
 .st-hero-slider1 .st-hero-text.st-style1 {
     position: relative;
-    top: -100px;
+    top: -50px;
     opacity: 0;
 }
 
 .owl-carousel.st-hero-slider1 .active .st-hero-text.st-style1 {
-    top: 40px;      /*40 - nks*/
+    /* top: 40px;      40 - nks */
     opacity: 1;
 }
 
@@ -1265,7 +1265,7 @@ a:hover {
 }
 
 .owl-carousel.st-hero-slider1 .active .st-hero-slide.st-style1 .st-hero-img {
-    top: 60%;   /*50 - nks*/
+    top: 65%;   /*50 - nks*/
     opacity: 1; /*1 - nks*/
 }
 
