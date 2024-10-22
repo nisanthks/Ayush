@@ -198,7 +198,7 @@ a:hover {
 .container {
     padding-top: 15px;
     margin-top: -1px;
-    scale: 80%;
+    /* scale: 80%; */
 }
 
 .row {
@@ -537,6 +537,15 @@ a:hover {
 
 .st-btn.st-color2:hover {
     background-color: #5257a6;
+}
+/* Button Color */
+.st-btn.st-color3 {
+    color: #fff;
+    background-color: #0a8d36;
+}
+
+.st-btn.st-color3:hover {
+    background-color: #ff8a73;
 }
 
 /*--------------------------------------------------------------
