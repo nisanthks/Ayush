@@ -2640,7 +2640,8 @@ a:hover {
 }
 
 .st-contact-form .st-btn.st-style1 {
-    margin-top: 16px;
+    margin-top: 1px;
+    margin-left: 300px;
 }
 
 .st-contact-info.st-style1 {
